@@ -50,5 +50,9 @@ Through this project, I have gained valuable knowledge about:
 - **Version Control** (GitHub)
 - **Indexing Techniques** (for faster searching)
 
+## Contributors
+1. Akilan Jenarththan
+2. Shriganeshan Nathiskar
+
 ## Contact
 For any questions or feedback, feel free to reach out via LinkedIn - www.linkedin.com/in/jenarththan-akilan-65b912296
